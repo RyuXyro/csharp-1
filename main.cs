@@ -7,6 +7,7 @@ public class Belajar
         string abc = "Kazuo";
         int def = 12;
         Console.WriteLine("tulis sesuatu");
+        Console.WriteLine("=====================");
         Console.WriteLine($"{Console.ReadLine()}, {abc} ultah tanggal {def}");
     }
 }
